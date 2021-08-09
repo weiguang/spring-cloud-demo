@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: cloud-feign-consumer
+    name: feign-service
 
 eureka:
   client:
